@@ -1,0 +1,6 @@
+//File for vs code to specify which es version are we using
+{
+    "compilerOptions": {
+        "target": "es6"
+    }
+}
