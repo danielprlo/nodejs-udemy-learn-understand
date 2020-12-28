@@ -2,6 +2,8 @@ var EventEmitter = require('events');
 var util = require('util');
 
 function Greetr() {
+    //Equivalente to super() in php
+    EventEmitter.call(this);
     this.greeting = 'Hello world';
 }
 
