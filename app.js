@@ -1,5 +1,4 @@
 var fs = require('fs');
-var fs = require('fs');
 
 //highWaterMark to set the buffer size in bites.
 //For this example we set 8kb so we get chunks 
