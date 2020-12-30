@@ -1,0 +1,22 @@
+{
+  "name": "nodejs-udemy-learn-understand",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shake93/nodejs-udemy-learn-understand.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shake93/nodejs-udemy-learn-understand/issues"
+  },
+  "homepage": "https://github.com/shake93/nodejs-udemy-learn-understand#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
